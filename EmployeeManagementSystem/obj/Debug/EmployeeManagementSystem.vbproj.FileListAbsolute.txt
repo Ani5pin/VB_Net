@@ -1,0 +1,17 @@
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.xml
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\91639\source\repos\EmployeeManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Resources.resources
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.vbproj.GenerateResource.cache
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\Employee.9A62F787.Up2Date
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.xml
+C:\Users\91639\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
